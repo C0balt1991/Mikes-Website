@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-iilw&)986#=ot3xgpgey=!=%g1=5prk1#pnlz3ta=t!*$saz%!'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
@@ -177,8 +177,8 @@ EMAIL_HOST_PASSWORD = 'imqtiegjxmlhqtso' # - Enter your app password
 
 # AWS Credentials:
 
-AWS_ACCESS_KEY_ID = "AKIAR3FRZ4EJ5J37PR76"
-AWS_SECRET_ACCESS_KEY = "tRug3M/D58ZRI2s0HhGd8XseC+MMlv2fN+HV5Lsv"
+AWS_ACCESS_KEY_ID = ""
+AWS_SECRET_ACCESS_KEY = ""
 
 # S3 configuration settings:
 
